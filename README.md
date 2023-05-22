@@ -1,7 +1,9 @@
 # CS50
-Playing with challenges and exercicises from CS50 Harvard.
+Taking the CS50 course at Harvard University to improve my logic skills and learn more about C language and basic computing.
 
-<br><div align="center"><<img align="center" alt="Mario" height="161" width="260.5" src="https://gifdb.com/images/high/nintendo-super-mario-bros-different-forms-japg0ynxgi9slxx9.webp"></div><br>
+Loading here the evolution with practical exercises and challenges.
+
+<br><div align="center"><img align="center" alt="Mario" height="161" width="260.5" src="https://gifdb.com/images/high/nintendo-super-mario-bros-different-forms-japg0ynxgi9slxx9.webp"></div><br>
 
 
 | Problems      | Practice                                      |Learning Goals |

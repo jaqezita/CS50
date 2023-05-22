@@ -5,6 +5,8 @@ bool prime(int number);
 
 int main(void)
 {
+    int p;
+
     int min;
     do
     {
@@ -24,12 +26,25 @@ int main(void)
         if (prime(i))
         {
             printf("%i\n", i);
+            p++;
         }
-    }
-}
+    } 
+    printf("\n\n%i\n", p); // Check that the number of primes in the range is correct
+}  
 
 bool prime(int number)
 {
-    // TODO ---------
+    int div;
+
+    div = 0;
+    for (int i = 1; i <= number; i++)
+    {
+        if (number % i == 0)
+        div++;
+    }
+    
+    if (div == 2)
+        return true;
+
     return false;
 }
