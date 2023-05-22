@@ -1,7 +1,7 @@
 # CS50
 Playing with challenges and exercicises from CS50 Harvard.
 
-<div align="center"><br><img align="center" alt="Mario" height="161" width="260.5" src="https://gifdb.com/images/high/nintendo-super-mario-bros-different-forms-japg0ynxgi9slxx9.webp"><br><div>
+<br><div align="center"><<img align="center" alt="Mario" height="161" width="260.5" src="https://gifdb.com/images/high/nintendo-super-mario-bros-different-forms-japg0ynxgi9slxx9.webp"></div><br>
 
 
 | Problems      | Practice                                      |Learning Goals |
