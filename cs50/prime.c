@@ -29,7 +29,7 @@ int main(void)
             p++;
         }
     } 
-    printf("\n\n%i\n", p); // Check that the number of primes in the range is correct
+    printf("\n\n%i\n", p); // Check that the number of primes in the range
 }  
 
 bool prime(int number)
