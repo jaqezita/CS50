@@ -1,6 +1,8 @@
 # CS50
 Playing with challenges and exercicises from CS50 Harvard.
 
+<br>  <img align="center" alt="Jaqe-Js" height="30" width="40" src="https://gifdb.com/images/high/nintendo-super-mario-bros-different-forms-japg0ynxgi9slxx9.webp"><br>
+
 
 | Problems      | Practice                                      |Learning Goals |
 | ------------- | -------------                                 | ------------- |
