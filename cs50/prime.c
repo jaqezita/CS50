@@ -1,13 +1,25 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                                            */
+/*   prime.c                                       		                      */
+/*                                                      		              */
+/*   By: Jaqueline Ribeiro <marvin@42.fr>                	                  */   
+/*                                                        		              */
+/*   Created: 2023/06/20 02:23:14 by Jaqueline R                              */
+/*   Updated: 2023/06/20 02:23:14 by Jaqueline R         		              */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include <cs50.h>
 #include <stdio.h>
 
-bool prime(int number);
+bool	prime(int number);
 
-int main(void)
+int	main(void)
 {
-    int number;
+	int	number;
 
-    int min;
+    int	min;
     do
     {
         min = get_int("Minimum: ");
