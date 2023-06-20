@@ -5,7 +5,7 @@ bool prime(int number);
 
 int main(void)
 {
-    int p;
+    int number;
 
     int min;
     do
@@ -26,10 +26,10 @@ int main(void)
         if (prime(i))
         {
             printf("%i\n", i);
-            p++;
+            number++;
         }
     } 
-    printf("\n\n%i\n", p); // Check the number of primes in the range
+    printf("\n\n%i\n", number); // Check the number of primes in the range
 }  
 
 bool prime(int number)
