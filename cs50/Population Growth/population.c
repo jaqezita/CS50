@@ -19,7 +19,7 @@ int main(void)
     } 
     while (end < start);
 
-    // f=Calculate number of years until we reach threshold
+    // Calculate number of years until we reach threshold
 
 	int	years = 0;
 	while (start < end)
