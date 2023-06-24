@@ -4,6 +4,7 @@
 int main(void) 
 {
     printf ("\nRight-Aligning with Dots\n\n");
+    
     int lines;
     do
     {

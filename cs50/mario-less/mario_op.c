@@ -4,6 +4,7 @@
 int main(void) 
 {
     printf ("\nBuilding the Opposite\n\n");
+    
     int lines;
     do
     {
